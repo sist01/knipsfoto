@@ -27,6 +27,7 @@ header nav ul li {
 }
 
 header nav ul li:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 
@@ -35,5 +36,43 @@ header nav ul li:hover {
 
 .picture-main {
     margin: 0 auto 0 auto;
+    padding-left: 120px;
     
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+h1 {
+    color: aliceblue;
+}
+
+h2 {
+    color: #EADECC;
+}
+
+.picture1 { 
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto 0;
+    display: inline-flex;
+}
+
+
+.picture2 {
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+    display: inline-flex;
+}
+
+.picture3 {  
+    width: 450px;
+    height: 300px;
+    margin: 0 auto 0 auto;
+    display: inline-flex;
 }
