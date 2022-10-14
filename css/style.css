@@ -22,7 +22,7 @@ header {
 header ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 40px;
     margin-right: 40px;
 
 }
@@ -38,12 +38,13 @@ header nav ul li {
 header nav ul li:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
+    
 }
 
 
 .picture-main {
     margin: 0 auto 0 auto;
-    padding-left: 120px;
+    width: 100%;
     
 }
 
@@ -103,9 +104,72 @@ h2 {
 
 .my-box1 {
     background-color: #EADECC;
+    width: 100%;
+    height: 800px;
+    justify-content: space-between;
 
 }
 
 .h2-01 {
     color: black;
 }
+
+.logo1 {
+width: 350px;
+height: 200px;
+display: inline-flex;
+justify-content: space-between;
+
+}
+
+.logo2 {
+    width: 350px;
+    height: 200px;
+    display: inline-flex;
+    justify-content: space-between;
+    
+}
+
+.logo3 {
+    width: 350px;
+    height: 200px;
+    display: inline-flex;
+    justify-content: space-between;
+    
+}
+
+
+.portrett { 
+    width: 450px;
+    height: 500px;
+    display: inline-flex;
+    margin: 20px 20px 20px 40px;
+    
+}
+
+
+.my-box2 {
+    background-color: #EADECC;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+
+
+.p1 {
+    color: black;
+    display: inline-flex;
+    text-align: center;
+   
+}
+
+.text-box {
+    width: 500px;
+    height: 300px;
+   
+    
+    background-color: aqua;
+}
+
