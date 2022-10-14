@@ -11,10 +11,19 @@ header {
 
 }
 
+.logo {
+    width: 120px;
+    height: 70px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
 header ul {
     list-style: none;
     display: flex;
     gap: 20px;
+    margin-right: 40px;
 
 }
 
@@ -30,8 +39,6 @@ header nav ul li:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-
-
 
 
 .picture-main {
@@ -92,4 +99,13 @@ h2 {
     margin: 0 auto 0 auto;
     display: inline-flex;
 
+}
+
+.my-box1 {
+    background-color: #EADECC;
+
+}
+
+.h2-01 {
+    color: black;
 }
