@@ -249,7 +249,7 @@ h2 {
 
 footer {
     background-color: #EADECC;
-    width: 1374px;
+    width: 1347;
     height: 100px;
     display: flex;
     padding: 25px;
@@ -258,7 +258,7 @@ footer {
 
 @media screen and (min-width: 700px) {
     .footer {
-        width: 100%;
+        width: 700px;
         height: 50px;
 
     }
