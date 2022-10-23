@@ -36,7 +36,7 @@ header nav ul li {
 }
 
 header nav ul li:hover {
-    color: rgba(0, 0, 0, 0.309);
+    color: rgb(255, 0, 0);
     text-decoration: underline;
     
 }
@@ -249,7 +249,6 @@ h2 {
 
 footer {
     background-color: #EADECC;
-    width: 1374px;
     height: 100px;
     display: flex;
     padding: 25px;
